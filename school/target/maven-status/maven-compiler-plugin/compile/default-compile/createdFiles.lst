@@ -1,0 +1,4 @@
+com/tutorial/school/SchoolApplication.class
+com/tutorial/delegator/DelegateToStudentService.class
+com/tutorial/controller/SchoolRestController.class
+com/tutorial/delegator/DelegateToStudentService$1.class
